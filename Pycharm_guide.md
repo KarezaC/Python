@@ -2,7 +2,7 @@
 
 *Author: kareza*
 
-## Create Django project
+## How to create a Django project with Pycharm?
 
 ![Pycharm-welcome](./res/Pycharm-welcome.png)
 
